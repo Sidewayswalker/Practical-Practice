@@ -43,7 +43,7 @@ function Q4() {
     return(
         <div>
             <div>
-                <p>Have the user input 2 different values A & B. 
+                <p>4. Have the user input 2 different values A & B. 
                 Then have the computer tell you which is bigger. 
                 Create a seperate clear button.</p>
             </div>
