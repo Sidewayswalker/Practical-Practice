@@ -1,3 +1,6 @@
+# WHAT IS THIS?
+This file is helping me practice my Javascript / React Skills. Using this Template I am finding/creating/researching new problems and then solving them. I think this method of learning will be very helpful. This will also keep my skills sharp.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
