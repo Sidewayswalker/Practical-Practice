@@ -7,6 +7,7 @@ import Q2 from './components/Q2/Q2.js';
 import Q3 from './components/Q3/Q3.js';
 import Q4 from './components/Q4/Q4.js';
 import Q5 from './components/Q5/Q5.js';
+import Q6 from './components/Q6/Q6.js';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       <Q3 />
       <Q4 />
       <Q5 />
+      <Q6 />
 
       </div>
     </div>
