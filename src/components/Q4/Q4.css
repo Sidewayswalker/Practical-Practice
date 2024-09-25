@@ -1,0 +1,17 @@
+.Q4-inputA{
+    margin-right: 2rem;
+}
+
+.Q4-text{
+    display: flex;
+    gap: 6.5rem;
+    justify-content: center;
+}
+
+.Q4-check-button {
+    margin-left: 1rem;
+}
+
+.Q4-clear-button {
+    margin-left: 1rem;
+}
